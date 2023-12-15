@@ -1,5 +1,6 @@
 <template>
-  <v-row justify="center" align="center">
+  <h1>Keith's Trello Clone</h1>
+  <!-- <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
       <v-card class="logo py-4 d-flex justify-center">
         <NuxtLogo />
@@ -73,11 +74,10 @@
         </v-card-actions>
       </v-card>
     </v-col>
-  </v-row>
+  </v-row> -->
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
 }
 </script>
